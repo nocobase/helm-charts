@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nocobase:
+  - apiVersion: v2
+    appVersion: "1.7"
+    created: "2025-06-30T15:12:46.726817+08:00"
+    description: A Helm chart for NocoBase
+    digest: b9cd23318ac8dd94f7a183785d62929b36289a596a196fd073c2c4157b1fbb6f
+    name: nocobase
+    type: application
+    urls:
+    - nocobase-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-06-30T15:12:46.72503+08:00"
